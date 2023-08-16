@@ -1,0 +1,2 @@
+class Flatss < ApplicationRecord
+end
